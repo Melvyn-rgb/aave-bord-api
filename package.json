@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@aave/contract-helpers": "^1.30.5",
+    "@aave/core-v3": "^1.19.3",
+    "@aave/math-utils": "^1.30.5",
+    "@bgd-labs/aave-address-book": "^4.7.4",
+    "ethers": "^5.7.2",
+    "express": "^4.21.2"
+  },
+  "name": "yield-autopilot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
